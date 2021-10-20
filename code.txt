@@ -1,0 +1,10 @@
+Salario = 5000*ValorDaInflacao/2
+
+1
+2
+2 1
+
+Var
+
+SomaSub = 1 + 2 - 3
+MinhaVariavelEnorme_ComUnderlineNoMeio42ENumerosTambem
