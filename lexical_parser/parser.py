@@ -8,7 +8,7 @@ from .data import Token, State, TokenType
 
 logger = logging.getLogger('lexicalParser')
 
-# Text used to identify states
+# Text used to identify some states
 operators = '+-/*'
 delimiters = '\r\n '
 
